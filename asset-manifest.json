@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.20af8b97.css",
+    "main.js": "/static/js/main.0ed20f82.js",
+    "static/js/787.e8c6061e.chunk.js": "/static/js/787.e8c6061e.chunk.js",
+    "static/media/about.svg": "/static/media/about.58f79847af212932b0503367175d8da1.svg",
+    "static/media/hive.png": "/static/media/hive.00ee641d4062634c1b05.png",
+    "static/media/home.svg": "/static/media/home.d4bef47dcf5294e2dd56f1c31fc2d373.svg",
+    "static/media/hadoop.svg": "/static/media/hadoop.0a098738e19b397381cfa7819d7df57c.svg",
+    "static/media/mysql-3.svg": "/static/media/mysql-3.5ed4a5dd3156991212575952fdf1f366.svg",
+    "static/media/apache-spark-5.svg": "/static/media/apache-spark-5.3ca1250249c11b0de6f52d2ed753c498.svg",
+    "static/media/aws-2.svg": "/static/media/aws-2.1baaa078f947505c36dc8ee7595f91da.svg",
+    "static/media/python-5.svg": "/static/media/python-5.e6d7dc739a91892bbf1f6262412046dd.svg",
+    "index.html": "/index.html",
+    "main.20af8b97.css.map": "/static/css/main.20af8b97.css.map",
+    "main.0ed20f82.js.map": "/static/js/main.0ed20f82.js.map",
+    "787.e8c6061e.chunk.js.map": "/static/js/787.e8c6061e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.20af8b97.css",
+    "static/js/main.0ed20f82.js"
+  ]
+}
