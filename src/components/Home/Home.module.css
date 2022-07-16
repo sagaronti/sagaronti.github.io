@@ -1,0 +1,33 @@
+.homeParent {
+    display: flex;
+
+    padding: 7% 15%;
+}
+
+.homeChildOne {
+    width: 100%;
+
+    padding: 12% 5% 0% 5%;
+}
+
+.homeChildOne h1 {
+    font-size: 2.4rem;
+    margin: 0;
+}
+
+.myName {
+    color: var(--primary-color);
+    font-family: 'Righteous', cursive;
+}
+
+.homeChildTwo {
+    width: 100%;
+}
+
+.homeChildTwo img {
+    width: 80%;
+    height: auto;
+
+    display: block;
+    margin: 0 auto;
+}

@@ -1,0 +1,32 @@
+.aboutParent {
+    display: flex;
+
+    padding: 7% 15%;
+}
+
+.aboutChildOne {
+    width: 100%;
+}
+
+.aboutChildOne img {
+    width: 80%;
+    height: auto;
+
+    display: block;
+    margin: 0 auto;
+}
+
+.aboutChildTwo {
+    width: 100%;
+    text-align: center;
+
+    padding-top: 4%;
+}
+
+.aboutChildTwo h2 {
+    font-size: 1.6rem;
+}
+
+.aboutChildTwo p {
+    font-size: 1.3rem;
+}

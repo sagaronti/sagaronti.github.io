@@ -1,0 +1,22 @@
+.footerParent {
+    background-color: var(--secondary-color);
+    text-align: center;
+
+    padding: 4% 8%;
+}
+
+.footerParent h3 {
+    font-size: 1.7rem;
+}
+
+.footerChild a {
+    font-size: 2rem;
+    color: var(--font-color);
+
+    margin: 0 3%;
+}
+
+.footerChild a:hover {
+    cursor: pointer;
+    color: var(--primary-color);
+}
